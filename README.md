@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theo1717
 - 👀 I’m interested in working as a Front-End developer.
 - 🌱 I’m currently learning JavaScript and React.js
-- 💞️ I’m looking to collaborate on companiesin need of a developer
+- 💞️ I’m looking to collaborate on companies in need of a developer
 - 📫 How to reach me: Phone number: +55 (41) 98842-0783, Email: theobackbernardes@gmail.com
 
 <!---
