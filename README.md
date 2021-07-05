@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theo1717
+- 👋 Hi, I’m Theo Back Bernardes
 - 👀 I’m interested in working as a Front-End developer.
 - 🌱 I’m currently learning JavaScript and React.js
 - 💞️ I’m looking to collaborate on companies in need of a developer
